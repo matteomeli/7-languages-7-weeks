@@ -1,0 +1,2 @@
+Accessing a file without blocks. Need to remember to close it!
+Much better with block, if you're forgetful like me.
